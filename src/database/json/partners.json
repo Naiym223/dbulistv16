@@ -1,0 +1,13 @@
+{
+  "partners": [
+    {
+      "code": "642564392165",
+      "icon": "https://cdn.discordapp.com/icons/917095309560135733/5e2ad72129726fc144277ed817e06086.webp?size=96",
+      "ownerID": "613107113954246820",
+      "serverName": "Discord Galaxy",
+      "website": "http://v2.discordgalaxy.tk/",
+      "background": "https://cdn.discordapp.com/icons/917095309560135733/5e2ad72129726fc144277ed817e06086.webp?size=96",
+      "description": "A Simple discord bot list"
+    }
+  ]
+}
